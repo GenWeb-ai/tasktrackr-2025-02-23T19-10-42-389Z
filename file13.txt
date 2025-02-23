@@ -1,0 +1,12 @@
+6. The backend server will be running on `http://127.0.0.1:5000`.
+
+### Usage
+
+- Open the frontend in your browser.
+- Use the input field to add new todos.
+- Click "Add" to add the todo to the list.
+- Click "Remove" to delete a todo from the list.
+
+### Note
+
+This is a simple implementation and does not persist data. Refreshing the page will reset the todo list.
