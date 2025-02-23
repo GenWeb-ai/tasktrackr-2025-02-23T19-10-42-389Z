@@ -1,0 +1,5 @@
+2. Open `index.html` in your browser to view the app.
+
+### Backend Setup
+
+1. Navigate to the `backend` directory:
